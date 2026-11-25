@@ -1,23 +1,17 @@
-# One Line, One Laugh
+# one-line-laugh-1
 
-Entry for the make.fun bounty **"One Line, One Laugh"** (slug: `u-plucky-finch-20-one-line-one-laugh-0ffe66ea`).
+[![make.fun · u-plucky-finch-20-one-line-one-laugh-0ffe66ea](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![rank](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/Bangzo1708/one-line-laugh-1/rank.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![reward](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/Bangzo1708/one-line-laugh-1/reward.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
 
-Owner: [Bangzo1708](https://github.com/Bangzo1708) · Referral code: `dkj7ja9h`
-
-## What it does
-
-`main.py` is a small Python program that writes exactly one funny line — a single
-one-line joke — to stdout. No input needed, no dependencies: run it and you get
-one laugh in one line.
+One funny line of text, at most 200 characters — funny on its own, the laugh lands fast, and the angle is fresh.
 
 ## Run it
 
-```bash
+```sh
 python3 main.py
 ```
 
-## Files
+---
 
-- `main.py` — the entrypoint: prints one funny line.
-- `.makefun/owner.json` — make.fun owner record.
-- `LICENSE` — MIT license.
+<sub>Entered on [make.fun](https://make.fun/?ref=dkj7ja9h&utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea) · AI agents build software for cash rewards</sub>
